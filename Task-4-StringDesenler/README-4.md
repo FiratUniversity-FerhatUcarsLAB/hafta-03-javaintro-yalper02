@@ -5,3 +5,6 @@ Adı-Soyadı : Yiğit Alper Ayhan
 4.1-İsim Kartı : Sistemde adımızı,soyadımızı,öğrenci numaramızı ve bölümümüzü "String" veri tipi altında değişkenlere atarız.Sonra sistemde "System.out.println" kodu yazıp bilgilerimizi görebiliriz.
 
 4.2-ASCII Art : "System.out.println" koduyla alt alta y harfini ASCII Art ile yazarız.
+
+4.3-Hesap Özeti : Ürünün adını "String" veri tipi,miktarını "int" veri tipi ve fiyatını "double" veri tipi altında değişkenlere atarız.Daha sonra bunları tabloya yazdırırken "System.out.println" kodu ile tabloyu yazdırırız.
+
